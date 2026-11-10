@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mahesh 👋
 
-<!--
-**Maheshchedurupalli/Maheshchedurupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer** based in Hyderabad, India.
+I build firmware for safety-critical railway systems and I'm moving towards automotive embedded software.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Embedded C, C++
+- **Microcontrollers:** STM32, ARM, ESP32
+- **RTOS and Linux:** FreeRTOS, Embedded Linux
+- **Protocols:** CAN, SocketCAN, TCP/IP, MQTT, RFID
+- **Tools:** Keil µVision, STM32CubeIDE, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+🚗 [**CAN Gateway with Predictive Diagnostics**](https://github.com/Maheshchedurupalli/Can-Gateway-Predictive-Diagnostics): STM32 (FreeRTOS) and Embedded Linux (SocketCAN) gateway with MQTT telemetry. *(In progress)*
+
+## Connect
+- LinkedIn: [https://www.linkedin.com/in/mahesh-chedurupalli-010453288/]
+- Open to automotive embedded roles across India
