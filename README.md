@@ -14,5 +14,5 @@ I build firmware for safety-critical railway systems and I'm moving towards auto
 🚗 [**CAN Gateway with Predictive Diagnostics**](https://github.com/Maheshchedurupalli/Can-Gateway-Predictive-Diagnostics): STM32 (FreeRTOS) and Embedded Linux (SocketCAN) gateway with MQTT telemetry. *(In progress)*
 
 ## Connect
-- LinkedIn: [https://www.linkedin.com/in/mahesh-chedurupalli-010453288/]
+- LinkedIn: [Mahesh Chedurupalli](https://www.linkedin.com/in/mahesh-chedurupalli-010453288/)
 - Open to automotive embedded roles across India
